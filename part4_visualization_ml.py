@@ -1,6 +1,7 @@
-# part4_visualization_ml.py
-# Assignment 3 - Part 4
-# analysing student performance and trying to predict pass/fail
+# Assignment 3 – Part 4
+# Data Visualization & Machine Learning
+# Name: Mili Rana
+# Student ID: 2511975
 
 import pandas as pd
 import matplotlib
